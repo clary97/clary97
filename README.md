@@ -1,6 +1,6 @@
 <div align="center">
 
-![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Min-Kyung%20Sung&fontSize=40&fontColor=ffffff&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Min-Kyung%20Sung&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Min-Kyung%20Sung&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling)
 
 </div>
 
