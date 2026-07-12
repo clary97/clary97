@@ -3,16 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header)
 
 </div>
-
-# 👋 About Me
+# Min-Kyung Sung (성민경)
+### 👋 About Me
 
 **Segmentation·VLM 연구를 실제 서비스로 만드는 AI Engineer**
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2980B9?style=flat-square&logoColor=white)
-![VLM](https://img.shields.io/badge/-VLM-8E44AD?style=flat-square&logoColor=white)
-![Segmentation](https://img.shields.io/badge/-Segmentation-27AE60?style=flat-square&logoColor=white)
-![Continual Learning](https://img.shields.io/badge/-Continual%20Learning-16A085?style=flat-square&logoColor=white)
-![MLOps](https://img.shields.io/badge/-MLOps-D35400?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-1F2937?style=flat-square&logoColor=white)
+![VLM](https://img.shields.io/badge/-VLM-1F2937?style=flat-square&logoColor=white)
+![Segmentation](https://img.shields.io/badge/-Segmentation-1F2937?style=flat-square&logoColor=white)
+![Continual Learning](https://img.shields.io/badge/-Continual%20Learning-1F2937?style=flat-square&logoColor=white)
+![MLOps](https://img.shields.io/badge/-MLOps-1F2937?style=flat-square&logoColor=white)
 
 석사 과정에서 Segmentation, Continual Learning, Open-Vocabulary 모델을 연구하며 국제 저널 포함 총 7편의 논문을 발표했습니다. 국내 완성차 대기업과의 산학 협력 2건을 통해 제조 공정 결함 탐지 및 MLOps 파이프라인을 직접 구현했고, 현재는 드론 기반 교량 결함 탐지 시스템의 AI 개발·서빙·상용화 전 과정을 **Technical PL**로 리딩하며 컨소시엄 기술 조율을 총괄하고 있습니다. 연구에 그치지 않고, 실제 현장에서 동작하는 시스템으로 연결하는 실용적인 AI 개발을 지향합니다.
 
