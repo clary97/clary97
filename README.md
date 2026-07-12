@@ -1,11 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Min-Kyung%20Sung&fontSize=40&fontColor=ffffff&fontAlignY=35)
 
 </div>
 
-# Min-Kyung Sung (성민경)
-### 👋 About Me
+# 👋 About Me
 
 **Segmentation·VLM 연구를 실제 서비스로 만드는 AI Engineer**
 
