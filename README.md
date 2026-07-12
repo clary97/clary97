@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header)
 
 </div>
+
 # Min-Kyung Sung (성민경)
 ### 👋 About Me
 
